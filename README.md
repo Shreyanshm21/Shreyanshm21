@@ -1,5 +1,5 @@
 <a href="https://github.com/Shreyanshm21">
-  <img src="https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" alt="Programmer" style="height: 400px; width: 100%; object-fit: cover;">
+  <img src="https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" alt="Programmer" style="height: 300px; width: 85%; object-fit: cover;">
 </a>
 
 
